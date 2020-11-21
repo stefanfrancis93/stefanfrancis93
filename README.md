@@ -9,7 +9,7 @@ My name is **Stefan Francis** and I'm a software developer from **India**, livin
 - 👨🏽‍💻 I’m currently working on NextJs and NestJs :wink:;
 - 🌱 I’m currently learning Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@stefanfrancis][1];
+- 📫 How to reach me: [@stefanfrancis93][1];
 
 ## 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
