@@ -2,6 +2,15 @@
 
 My name is **Stefan Francis** and I'm a software developer from **India**, living in **Kochi** and currently working at **KeyValue Software Systems**. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+<img align="right" alt="GIF" src="https://github.com/stefanfrancis93/stefanfrancis93/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on NextJs and NestJs :wink:;
+- 🌱 I’m currently learning Python; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@stefanfrancis][1];
+
 ## 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=linux)
@@ -31,7 +40,7 @@ My name is **Stefan Francis** and I'm a software developer from **India**, livin
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/stefanfrancis93/stefanfrancis93">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanfrancis93&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanfrancis93&hide=java,html&theme=material-palenight" />
 </a>
 <a href="https://github.com/stefanfrancis93/stefanfrancis93">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanfrancis93&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Stefan Francis's GitHub Stats" />
