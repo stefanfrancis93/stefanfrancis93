@@ -2,7 +2,7 @@
 
 My name is **Stefan Francis** and I'm a software developer from **India**, living in **Kochi** and currently working at **KeyValue Software Systems**. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<img align="right" alt="GIF" src="https://github.com/stefanfrancis93/stefanfrancis93/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/stefanfrancis93/stefanfrancis93/blob/main/code.gif?raw=true" height="300" />
   
 **Talking about Personal Stuffs:**
 
