@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/stefanfrancis93/stefanfrancis93/main/wave.gif" width="30px">
 
-My name is Stefan Francis and I'm a software developer from India, living in Kochi and currently working at KeyValue Software Systems. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is **Stefan Francis** and I'm a software developer from **India**, living in **Kochi** and currently working at **KeyValue Software Systems**. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
